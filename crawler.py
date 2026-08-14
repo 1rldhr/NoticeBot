@@ -8,9 +8,9 @@ import os
 # 로컬 컴퓨터에서는 secrets.py 파일에서, 깃허브에서 자동 실행될 때는
 # 깃허브의 안전한 저장소(Secrets)에서 값을 가져옵니다.
 try:
-    import secrets
-    TELEGRAM_TOKEN = secrets.TELEGRAM_TOKEN
-    TELEGRAM_CHAT_ID = secrets.TELEGRAM_CHAT_ID
+    import my_secrets
+    TELEGRAM_TOKEN = my_secrets.TELEGRAM_TOKEN
+    TELEGRAM_CHAT_ID = my_secrets.TELEGRAM_CHAT_ID
 except ImportError:
     TELEGRAM_TOKEN = os.environ["TELEGRAM_TOKEN"]
     TELEGRAM_CHAT_ID = os.environ["TELEGRAM_CHAT_ID"]
