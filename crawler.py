@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import config  # 방금 만든 config.py 불러오기
 import os
 
-# 로컬 컴퓨터에서는 secrets.py 파일에서, 깃허브에서 자동 실행될 때는
+# 로컬 컴퓨터에서는 my_secrets.py 파일에서, 깃허브에서 자동 실행될 때는
 # 깃허브의 안전한 저장소(Secrets)에서 값을 가져옵니다.
 try:
     import my_secrets
