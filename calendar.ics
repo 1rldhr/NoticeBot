@@ -96,4 +96,20 @@ DTEND;VALUE=DATE:20260814
 SUMMARY:[산공학과공지] [장학] 2026학년도 2학기 백마성적우수장학생 선발기준 안내
 DESCRIPTION:https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=48843
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85%E2%98%85%E2%98%85-2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EA%B5%90%EB%82%B4%EC%9E%A5%ED%95%99%EA%B8%88-2%EC%B0%A8-%EC%8B%A0%EC%B2%AD-%EC%95%88%EB%82%B4%EC%9E%AC%ED%95%99&keyword
+DTSTAMP:20260819T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260819
+SUMMARY:[전체공지] 장학★★★ 2026학년도 2학기 교내장학금 2차 신청 안내(재학생 및 복학예정자 대상) ★★★
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85%E2%98%85%E2%98%85-2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EA%B5%90%EB%82%B4%EC%9E%A5%ED%95%99%EA%B8%88-2%EC%B0%A8-%EC%8B%A0%EC%B2%AD-%EC%95%88%EB%82%B4%EC%9E%AC%ED%95%99&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EC%9A%B0%EC%96%91%EC%9E%AC%EB%8B%A8-%E3%80%8C%EB%A8%B9%EA%B1%B0%EB%A6%AC-%EC%95%88%EC%A0%84%EB%A7%9D%E3%80%8D%EA%B0%9C%EC%9D%B8-%EC%B0%B8%EC%97%AC%ED%9A%8C%EC%9B%90-%EB%AA%A8%EC%A7%91&keyword
+DTSTAMP:20260819T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260819
+SUMMARY:[전체공지] 장학2026년 우양재단 「먹거리 안전망」개인 참여회원 모집 안내(~8.27.목)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EC%9A%B0%EC%96%91%EC%9E%AC%EB%8B%A8-%E3%80%8C%EB%A8%B9%EA%B1%B0%EB%A6%AC-%EC%95%88%EC%A0%84%EB%A7%9D%E3%80%8D%EA%B0%9C%EC%9D%B8-%EC%B0%B8%EC%97%AC%ED%9A%8C%EC%9B%90-%EB%AA%A8%EC%A7%91&keyword
+END:VEVENT
 END:VCALENDAR
