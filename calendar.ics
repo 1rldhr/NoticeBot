@@ -112,4 +112,20 @@ DTEND;VALUE=DATE:20260819
 SUMMARY:[전체공지] 장학2026년 우양재단 「먹거리 안전망」개인 참여회원 모집 안내(~8.27.목)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EC%9A%B0%EC%96%91%EC%9E%AC%EB%8B%A8-%E3%80%8C%EB%A8%B9%EA%B1%B0%EB%A6%AC-%EC%95%88%EC%A0%84%EB%A7%9D%E3%80%8D%EA%B0%9C%EC%9D%B8-%EC%B0%B8%EC%97%AC%ED%9A%8C%EC%9B%90-%EB%AA%A8%EC%A7%91&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-2%ED%95%99%EA%B8%B0-1%EC%B0%A8-%ED%8F%90%EA%B0%95-%EA%B3%BC%EB%AA%A9-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20260819T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260819
+SUMMARY:[전체공지] 학사2026-2학기 1차 폐강 과목 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-2%ED%95%99%EA%B8%B0-1%EC%B0%A8-%ED%8F%90%EA%B0%95-%EA%B3%BC%EB%AA%A9-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-%EC%A0%9C7%EA%B8%B0-%EA%B2%BD%EC%9B%90%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20260819T000000Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260819
+SUMMARY:[전체공지] 장학2026학년도 제7기 경원장학재단 장학생 선발 안내(~9.30.수)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-%EC%A0%9C7%EA%B8%B0-%EA%B2%BD%EC%9B%90%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
 END:VCALENDAR
