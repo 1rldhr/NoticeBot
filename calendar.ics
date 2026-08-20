@@ -144,4 +144,12 @@ DTEND;VALUE=DATE:20260820
 SUMMARY:[전체공지] 장학2026년 한국대학유학생실무자협의회(AISA) 장학생 선발(외국인 유학생 대상\, 9.1.화~9.18.금)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%ED%95%9C%EA%B5%AD%EB%8C%80%ED%95%99%EC%9C%A0%ED%95%99%EC%83%9D%EC%8B%A4%EB%AC%B4%EC%9E%90%ED%98%91%EC%9D%98%ED%9A%8Caisa-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C%EC%99%B8&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-sic-%ED%95%B4%EC%99%B8-%EC%B7%A8%EC%97%85-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8%EC%A7%91&keyword
+DTSTAMP:20260820T000000Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260820
+SUMMARY:[전체공지] 국제교류2026학년도 SIC 해외 취업 세미나  참가자 모집
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-sic-%ED%95%B4%EC%99%B8-%EC%B7%A8%EC%97%85-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8%EC%A7%91&keyword
+END:VEVENT
 END:VCALENDAR
