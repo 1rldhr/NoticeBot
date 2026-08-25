@@ -184,4 +184,12 @@ DTEND;VALUE=DATE:20260824
 SUMMARY:[전체공지] 장학★ 2026학년도 2학기 학과근로장학생 선발 결과 안내
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85-2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%ED%95%99%EA%B3%BC%EA%B7%BC%EB%A1%9C%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EA%B2%B0%EA%B3%BC-%EC%95%88%EB%82%B4&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B0%95%EC%A2%8C-%EC%A0%95%EC%9B%90-%EC%A1%B0%EC%A0%95-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20260825T000000Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260825
+SUMMARY:[전체공지] 학사2026학년도 2학기 온라인 강좌 정원 조정 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EC%98%A8%EB%9D%BC%EC%9D%B8-%EA%B0%95%EC%A2%8C-%EC%A0%95%EC%9B%90-%EC%A1%B0%EC%A0%95-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
 END:VCALENDAR
