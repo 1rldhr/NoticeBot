@@ -208,4 +208,12 @@ DTEND;VALUE=DATE:20260825
 SUMMARY:[전체공지] 장학2026년 2학기 한국선원복지고용센터 선원가족장학사업 안내(9.1.화~10.23.금)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-2%ED%95%99%EA%B8%B0-%ED%95%9C%EA%B5%AD%EC%84%A0%EC%9B%90%EB%B3%B5%EC%A7%80%EA%B3%A0%EC%9A%A9%EC%84%BC%ED%84%B0-%EC%84%A0%EC%9B%90%EA%B0%80%EC%A1%B1%EC%9E%A5%ED%95%99%EC%82%AC%EC%97%85&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EC%9C%A0%EA%B3%A0%EA%B2%B0%EC%84%9D-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20260826T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260826
+SUMMARY:[전체공지] 학사2026학년도 2학기 유고결석 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EC%9C%A0%EA%B3%A0%EA%B2%B0%EC%84%9D-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
 END:VCALENDAR
