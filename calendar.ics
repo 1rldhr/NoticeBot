@@ -344,4 +344,12 @@ DTEND;VALUE=DATE:20260831
 SUMMARY:[전체공지] 비교과·행사2026-2학기 숭실평화통일연구원 대학생 인턴 모집
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=105735&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=48891
+DTSTAMP:20260901T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260901
+SUMMARY:[산공학과공지] [공지] 2026-2학기 교내장학금 2차 신청 안내
+DESCRIPTION:https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=48891
+END:VEVENT
 END:VCALENDAR
