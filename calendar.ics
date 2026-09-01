@@ -352,4 +352,52 @@ DTEND;VALUE=DATE:20260901
 SUMMARY:[산공학과공지] [공지] 2026-2학기 교내장학금 2차 신청 안내
 DESCRIPTION:https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=48891
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EC%83%81%EB%B0%98%EA%B8%B0%EB%B6%84-%ED%86%B5%EC%98%81%EC%8B%9C-%EB%8C%80%ED%95%99%EC%83%9D-%ED%95%99%EC%9E%90%EA%B8%88-%EC%9D%B4%EC%9E%90-%EC%A7%80%EC%9B%90-%EC%95%88%EB%82%B49-23&keyword
+DTSTAMP:20260901T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260901
+SUMMARY:[전체공지] 장학2026년 상반기분 통영시 대학생 학자금 이자 지원 안내(~9.23.수 17시)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EC%83%81%EB%B0%98%EA%B8%B0%EB%B6%84-%ED%86%B5%EC%98%81%EC%8B%9C-%EB%8C%80%ED%95%99%EC%83%9D-%ED%95%99%EC%9E%90%EA%B8%88-%EC%9D%B4%EC%9E%90-%EC%A7%80%EC%9B%90-%EC%95%88%EB%82%B49-23&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84%EB%8F%84-%EA%B5%AD%EA%B0%80%EC%9C%A0%EC%82%B0%EC%A7%84%ED%9D%A5%EC%9B%90-%EC%A0%84%ED%86%B5-%EA%B8%B0%C2%B7%EC%98%88%EB%8A%A5-%EB%B6%84%EC%95%BC-%EB%B0%8F-%EB%A7%A4%EC%9E%A5%EC%9C%A0&keyword
+DTSTAMP:20260901T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260901
+SUMMARY:[전체공지] 장학2026년도 국가유산진흥원 전통 기·예능 분야 및 매장유산 관련 분야 우수 장학생 선발 안내(~9.30.수)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84%EB%8F%84-%EA%B5%AD%EA%B0%80%EC%9C%A0%EC%82%B0%EC%A7%84%ED%9D%A5%EC%9B%90-%EC%A0%84%ED%86%B5-%EA%B8%B0%C2%B7%EC%98%88%EB%8A%A5-%EB%B6%84%EC%95%BC-%EB%B0%8F-%EB%A7%A4%EC%9E%A5%EC%9C%A0&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EB%AA%A8%EC%A7%91-ai-%ED%99%9C%EC%9A%A9-%EA%B8%80%EC%93%B0%EA%B8%B0-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%B3%B4%EB%8B%A4-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B2%83%EC%9D%80&keyword
+DTSTAMP:20260901T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260901
+SUMMARY:[전체공지] 비교과·행사[모집] AI 활용 글쓰기\, 프롬프트보다 중요한 것은?
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EB%AA%A8%EC%A7%91-ai-%ED%99%9C%EC%9A%A9-%EA%B8%80%EC%93%B0%EA%B8%B0-%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%EB%B3%B4%EB%8B%A4-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B2%83%EC%9D%80&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=105807&keyword
+DTSTAMP:20260901T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260901
+SUMMARY:[전체공지] 비교과·행사[모집] 신·편입생을 위한 도서관 오리엔테이션(9/17-9/18)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=105807&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-%ED%95%99%EB%B6%80%EA%B5%90%EC%9C%A1%EC%8B%A4%ED%83%9C%EC%A1%B0%EC%82%AC-%EC%9E%AC%ED%95%99%EC%83%9D-%EC%B0%B8%EC%97%AC-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20260901T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260901
+SUMMARY:[전체공지] 비교과·행사2026 학부교육실태조사 재학생 참여 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-%ED%95%99%EB%B6%80%EA%B5%90%EC%9C%A1%EC%8B%A4%ED%83%9C%EC%A1%B0%EC%82%AC-%EC%9E%AC%ED%95%99%EC%83%9D-%EC%B0%B8%EC%97%AC-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EC%A0%9C29%EA%B8%B0-%EB%91%90%EC%9D%84%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B49-30-%EC%88%98-18%EC%8B%9C&keyword
+DTSTAMP:20260901T000000Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260901
+SUMMARY:[전체공지] 장학2026년 제29기 두을장학생 선발 안내(~9.30.수. 18시)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EC%A0%9C29%EA%B8%B0-%EB%91%90%EC%9D%84%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B49-30-%EC%88%98-18%EC%8B%9C&keyword
+END:VEVENT
 END:VCALENDAR
