@@ -424,4 +424,20 @@ DTEND;VALUE=DATE:20260902
 SUMMARY:[전체공지] 장학2026년도 재단법인 수림재단 동교인재상 선발 안내(~10.16.금)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84%EB%8F%84-%EC%9E%AC%EB%8B%A8%EB%B2%95%EC%9D%B8-%EC%88%98%EB%A6%BC%EC%9E%AC%EB%8B%A8-%EB%8F%99%EA%B5%90%EC%9D%B8%EC%9E%AC%EC%83%81-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B4&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EC%A1%B0%EA%B8%B0-%EC%A1%B8%EC%97%85-%EC%8B%A0%EC%B2%AD-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20260902T000000Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260902
+SUMMARY:[전체공지] 학사2026학년도 2학기 조기 졸업 신청 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EC%A1%B0%EA%B8%B0-%EC%A1%B8%EC%97%85-%EC%8B%A0%EC%B2%AD-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EA%B5%90%EB%AA%A9%EC%8B%A4-%ED%95%99%EC%9B%90%EC%84%A0%EA%B5%90%ED%8C%80-%EC%B1%84%ED%94%8C%EC%9A%B4%EC%98%81-%EB%B3%B4%EC%A1%B0%EC%9D%B8-3&keyword
+DTSTAMP:20260902T000000Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260902
+SUMMARY:[전체공지] 장학2026학년도 2학기 교목실 학원선교팀 채플운영 보조인력 추가모집
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EA%B5%90%EB%AA%A9%EC%8B%A4-%ED%95%99%EC%9B%90%EC%84%A0%EA%B5%90%ED%8C%80-%EC%B1%84%ED%94%8C%EC%9A%B4%EC%98%81-%EB%B3%B4%EC%A1%B0%EC%9D%B8-3&keyword
+END:VEVENT
 END:VCALENDAR
