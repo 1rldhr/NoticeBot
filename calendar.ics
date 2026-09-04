@@ -472,4 +472,12 @@ DTEND;VALUE=DATE:20260903
 SUMMARY:[전체공지] 국제교류[한국어교육원] 외국인 유학생 도우미 프로그램 제64기 모집 안내
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%9C%EA%B5%AD%EC%96%B4%EA%B5%90%EC%9C%A1%EC%9B%90-%EC%99%B8%EA%B5%AD%EC%9D%B8-%EC%9C%A0%ED%95%99%EC%83%9D-%EB%8F%84%EC%9A%B0%EB%AF%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C64%EA%B8%B0-4&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-sic-3%EC%BF%BC%ED%84%B0-%EC%A0%95%EA%B8%B0-%EA%B5%90%ED%99%98%ED%95%99%EC%83%9D-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8&keyword
+DTSTAMP:20260904T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260904
+SUMMARY:[전체공지] 국제교류2026학년도 2학기 SIC 3쿼터 정기 교환학생 세미나 참가자 모집 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-sic-3%EC%BF%BC%ED%84%B0-%EC%A0%95%EA%B8%B0-%EA%B5%90%ED%99%98%ED%95%99%EC%83%9D-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8&keyword
+END:VEVENT
 END:VCALENDAR
