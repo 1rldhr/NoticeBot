@@ -520,4 +520,12 @@ DTEND;VALUE=DATE:20260907
 SUMMARY:[전체공지] 장학2026년 숭실대학교 교수협의회 장학생 선발 안내
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%EA%B5%90%EC%88%98%ED%98%91%EC%9D%98%ED%9A%8C-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B4&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-2%ED%95%99%EA%B8%B0-2%EC%B0%A8-%ED%8F%90%EA%B0%95-%EA%B3%BC%EB%AA%A9-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20260908T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260908
+SUMMARY:[전체공지] 학사2026-2학기 2차 폐강 과목 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-2%ED%95%99%EA%B8%B0-2%EC%B0%A8-%ED%8F%90%EA%B0%95-%EA%B3%BC%EB%AA%A9-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
 END:VCALENDAR
