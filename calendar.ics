@@ -528,4 +528,20 @@ DTEND;VALUE=DATE:20260908
 SUMMARY:[전체공지] 학사2026-2학기 2차 폐강 과목 안내
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-2%ED%95%99%EA%B8%B0-2%EC%B0%A8-%ED%8F%90%EA%B0%95-%EA%B3%BC%EB%AA%A9-%EC%95%88%EB%82%B4&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EC%88%98%EA%B0%95-%EA%B3%BC%EB%AA%A9-%EC%B7%A8%EC%86%8Cdrop-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20260908T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260908
+SUMMARY:[전체공지] 학사2026학년도 2학기 수강 과목 취소(Drop) 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EC%88%98%EA%B0%95-%EA%B3%BC%EB%AA%A9-%EC%B7%A8%EC%86%8Cdrop-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EC%A7%84%EB%A1%9C%EC%B7%A8%EC%97%85%EC%84%BC%ED%84%B0-%EA%B3%B5%EA%B3%B5%EC%9D%B8%EC%9E%AC%EC%96%91%EC%84%B1%EB%B0%98-%EB%AA%A8%EC%A7%91-%EC%95%88&keyword
+DTSTAMP:20260908T000000Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260908
+SUMMARY:[전체공지] 비교과·행사2026학년도 2학기 진로취업센터 공공인재양성반 모집 안내(법학전문대학원반)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EC%A7%84%EB%A1%9C%EC%B7%A8%EC%97%85%EC%84%BC%ED%84%B0-%EA%B3%B5%EA%B3%B5%EC%9D%B8%EC%9E%AC%EC%96%91%EC%84%B1%EB%B0%98-%EB%AA%A8%EC%A7%91-%EC%95%88&keyword
+END:VEVENT
 END:VCALENDAR
