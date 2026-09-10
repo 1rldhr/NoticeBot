@@ -584,4 +584,20 @@ DTEND;VALUE=DATE:20260910
 SUMMARY:[전체공지] 학사2026-2학기 타 대학 K-MOOC 학점 인정 안내
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-2%ED%95%99%EA%B8%B0-%ED%83%80-%EB%8C%80%ED%95%99-k-mooc-%ED%95%99%EC%A0%90-%EC%9D%B8%EC%A0%95-%EC%95%88%EB%82%B4&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EC%9E%A5%ED%95%99-%EC%A1%B8%EC%97%85-2026-2%ED%95%99%EA%B8%B0-%EC%9C%A0%ED%95%99%EC%83%9D-topik-%EC%84%B1%EC%A0%81-%EC%A0%9C%EC%B6%9C-%EB%B0%8F-%EC%9E%A5%ED%95%99%EA%B8%88-%EC%8B%A0%EC%B2%AD&keyword
+DTSTAMP:20260910T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260910
+SUMMARY:[전체공지] 외국인유학생[장학\, 졸업] 2026-2학기 유학생 TOPIK 성적 제출 및 장학금 신청 안내(~2026.12.25.)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EC%9E%A5%ED%95%99-%EC%A1%B8%EC%97%85-2026-2%ED%95%99%EA%B8%B0-%EC%9C%A0%ED%95%99%EC%83%9D-topik-%EC%84%B1%EC%A0%81-%EC%A0%9C%EC%B6%9C-%EB%B0%8F-%EC%9E%A5%ED%95%99%EA%B8%88-%EC%8B%A0%EC%B2%AD&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%ED%95%9C%EA%B2%BD%EC%A7%81%EB%AA%A9%EC%82%AC%EA%B8%B0%EB%85%90%EC%82%AC%EC%97%85%ED%9A%8C-%EB%B6%81%EC%A0%81%EB%B6%81%EC%A0%81-%EB%8F%85%EC%84%9C%ED%96%89%EC%82%AC-%EA%B3%B5%EB%AA%A8&keyword
+DTSTAMP:20260910T000000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260910
+SUMMARY:[전체공지] 비교과·행사2026년 한경직목사기념사업회 북적북적 독서행사 공모전 안내(~9.20.일)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%ED%95%9C%EA%B2%BD%EC%A7%81%EB%AA%A9%EC%82%AC%EA%B8%B0%EB%85%90%EC%82%AC%EC%97%85%ED%9A%8C-%EB%B6%81%EC%A0%81%EB%B6%81%EC%A0%81-%EB%8F%85%EC%84%9C%ED%96%89%EC%82%AC-%EA%B3%B5%EB%AA%A8&keyword
+END:VEVENT
 END:VCALENDAR
