@@ -656,4 +656,28 @@ DTEND;VALUE=DATE:20260915
 SUMMARY:[전체공지] 비교과·행사2026-2학기 진로지도교수 상담 신청(~9/28)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-2%ED%95%99%EA%B8%B0-%EC%A7%84%EB%A1%9C%EC%A7%80%EB%8F%84%EA%B5%90%EC%88%98-%EC%83%81%EB%8B%B4-%EC%8B%A0%EC%B2%AD9-28&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B2%A8%EC%9A%B8-%EB%8B%A8%EA%B8%B0-%EB%8F%85%EC%9D%BC-%EB%8B%A4%EB%A6%84%EC%8A%88%ED%83%80%ED%8A%B8-%EC%9D%91%EC%9A%A9%EA%B3%BC%ED%95%99%EB%8C%80%ED%95%99%EA%B5%90h_da-2026-27-internati&keyword
+DTSTAMP:20260916T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260916
+SUMMARY:[전체공지] 국제교류[겨울 단기] 독일 다름슈타트 응용과학대학교(h_da) 2026–27 International Winter University 참가자 모집 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B2%A8%EC%9A%B8-%EB%8B%A8%EA%B8%B0-%EB%8F%85%EC%9D%BC-%EB%8B%A4%EB%A6%84%EC%8A%88%ED%83%80%ED%8A%B8-%EC%9D%91%EC%9A%A9%EA%B3%BC%ED%95%99%EB%8C%80%ED%95%99%EA%B5%90h_da-2026-27-internati&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85-2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%ED%95%98%EB%82%98%EA%B8%88%EC%9C%B5%EB%82%98%EB%88%94%EC%9E%AC%EB%8B%A8-%ED%95%98%EB%82%98%EC%9E%A5%ED%95%99%EC%83%9D-%EC%B6%94%EC%B2%9C&keyword
+DTSTAMP:20260916T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260916
+SUMMARY:[전체공지] 장학★ 2026학년도 2학기 하나금융나눔재단 하나장학생 추천자 선발 공고(~9.23수 15시)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85-2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%ED%95%98%EB%82%98%EA%B8%88%EC%9C%B5%EB%82%98%EB%88%94%EC%9E%AC%EB%8B%A8-%ED%95%98%EB%82%98%EC%9E%A5%ED%95%99%EC%83%9D-%EC%B6%94%EC%B2%9C&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84%EB%8F%84-%EC%9E%AC%ED%8F%AC%ED%95%AD%EC%8B%9C%EC%9E%A5%ED%95%99%ED%9A%8C-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B49-22-%ED%99%94-18%EC%8B%9C&keyword
+DTSTAMP:20260916T000000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260916
+SUMMARY:[전체공지] 장학2026년도 (재)포항시장학회 장학생 선발 안내(~9.22.화 18시)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84%EB%8F%84-%EC%9E%AC%ED%8F%AC%ED%95%AD%EC%8B%9C%EC%9E%A5%ED%95%99%ED%9A%8C-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B49-22-%ED%99%94-18%EC%8B%9C&keyword
+END:VEVENT
 END:VCALENDAR
