@@ -760,4 +760,12 @@ DTEND;VALUE=DATE:20260921
 SUMMARY:[전체공지] 비교과·행사[숭실대학교 앵커사업단] 2026년 숭실 특허 경진대회 개최(~10/18일까지 마감)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%EC%95%B5%EC%BB%A4%EC%82%AC%EC%97%85%EB%8B%A8-2026%EB%85%84-%EC%88%AD%EC%8B%A4-%ED%8A%B9%ED%97%88-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%99%EC%83%9D-%EC%98%88%EB%B9%84%EA%B5%B0-%EB%8F%99%EC%9B%90%ED%9B%88%EB%A0%A8-ii%ED%98%95%EC%9D%B4%EC%9B%94%ED%9B%88%EB%A0%A8-%EA%B3%84%ED%9A%8D-%EB%B0%8F-%EC%9C%A0%EA%B3%A0-%EA%B2%B0%EC%84%9D&keyword
+DTSTAMP:20260921T000000Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260921
+SUMMARY:[전체공지] 학사학생 예비군 동원훈련 II형(이월)훈련 계획 및 유고 결석 신청 절차 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%99%EC%83%9D-%EC%98%88%EB%B9%84%EA%B5%B0-%EB%8F%99%EC%9B%90%ED%9B%88%EB%A0%A8-ii%ED%98%95%EC%9D%B4%EC%9B%94%ED%9B%88%EB%A0%A8-%EA%B3%84%ED%9A%8D-%EB%B0%8F-%EC%9C%A0%EA%B3%A0-%EA%B2%B0%EC%84%9D&keyword
+END:VEVENT
 END:VCALENDAR
