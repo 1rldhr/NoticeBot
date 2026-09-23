@@ -800,4 +800,12 @@ DTEND;VALUE=DATE:20260923
 SUMMARY:[전체공지] 비교과·행사[교수학습혁신팀] 2026-2학기 학습공동체 모집
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EC%88%98%ED%95%99%EC%8A%B5%ED%98%81%EC%8B%A0%ED%8C%80-%ED%95%99%EC%8A%B5%EA%B3%B5%EB%8F%99%EC%B2%B4-%EB%AA%A8%EC%A7%91-2&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-2%ED%95%99%EA%B8%B0-%EB%8B%A4%EC%A0%84%EA%B3%B5-%EC%8B%A0%EC%B2%AD-%EB%B3%80%EA%B2%BD-%ED%8F%AC%EA%B8%B0-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20260923T000000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260923
+SUMMARY:[전체공지] 학사2026-2학기 다전공 신청/변경/포기 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-2%ED%95%99%EA%B8%B0-%EB%8B%A4%EC%A0%84%EA%B3%B5-%EC%8B%A0%EC%B2%AD-%EB%B3%80%EA%B2%BD-%ED%8F%AC%EA%B8%B0-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
 END:VCALENDAR
