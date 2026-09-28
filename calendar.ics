@@ -808,4 +808,12 @@ DTEND;VALUE=DATE:20260923
 SUMMARY:[전체공지] 학사2026-2학기 다전공 신청/변경/포기 안내
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-2%ED%95%99%EA%B8%B0-%EB%8B%A4%EC%A0%84%EA%B3%B5-%EC%8B%A0%EC%B2%AD-%EB%B3%80%EA%B2%BD-%ED%8F%AC%EA%B8%B0-%EC%95%88%EB%82%B4&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EC%9D%B8%EB%AC%B8%EB%8C%80%ED%95%99-%EC%9D%BC%EC%96%B4%EC%9D%BC%EB%AC%B8%ED%95%99%EA%B3%BC-%ED%95%99%EC%82%AC%EC%A1%B0%EA%B5%90-%EC%B1%84%EC%9A%A9-%EA%B3%B5%EA%B3%A0&keyword
+DTSTAMP:20260928T000000Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260928
+SUMMARY:[전체공지] 채용[인문대학] 일어일문학과 학사조교 채용 공고
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EC%9D%B8%EB%AC%B8%EB%8C%80%ED%95%99-%EC%9D%BC%EC%96%B4%EC%9D%BC%EB%AC%B8%ED%95%99%EA%B3%BC-%ED%95%99%EC%82%AC%EC%A1%B0%EA%B5%90-%EC%B1%84%EC%9A%A9-%EA%B3%B5%EA%B3%A0&keyword
+END:VEVENT
 END:VCALENDAR
