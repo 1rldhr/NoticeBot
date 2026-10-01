@@ -912,4 +912,28 @@ DTEND;VALUE=DATE:20261001
 SUMMARY:[전체공지] 비교과·행사2026년 글로벌 창업인재 육성 프로그램 참가자 모집 안내(~10/14 (수) 오전 11:00까지)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%B0%BD%EC%97%85%EC%9D%B8%EC%9E%AC-%EC%9C%A1%EC%84%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8%EC%A7%91-%EC%95%88%EB%82%B4&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=hy%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%9E%AC%EB%8B%A8-%E3%80%8C2026%EB%85%84-%EB%93%A0%EB%93%A0-%ED%95%99%EC%97%85%EC%A7%80%EC%9B%90%EA%B8%88%E3%80%8D%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B410-8&keyword
+DTSTAMP:20261001T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+SUMMARY:[전체공지] 장학hy사회복지재단 「2026년 든든 학업지원금」선발 안내(~10.8.목 17시)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=hy%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%9E%AC%EB%8B%A8-%E3%80%8C2026%EB%85%84-%EB%93%A0%EB%93%A0-%ED%95%99%EC%97%85%EC%A7%80%EC%9B%90%EA%B8%88%E3%80%8D%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B410-8&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EC%9A%B0%EC%96%91%EC%9E%AC%EB%8B%A8-%EB%8F%99%ED%96%89-%EC%9E%A5%ED%95%99%EC%83%9D-%EB%AA%A8%EC%A7%91-%EC%95%88%EB%82%B410-18-%EC%9D%BC&keyword
+DTSTAMP:20261001T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+SUMMARY:[전체공지] 장학2026년 우양재단 동행 장학생 모집 안내(~10.18.일)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EC%9A%B0%EC%96%91%EC%9E%AC%EB%8B%A8-%EB%8F%99%ED%96%89-%EC%9E%A5%ED%95%99%EC%83%9D-%EB%AA%A8%EC%A7%91-%EC%95%88%EB%82%B410-18-%EC%9D%BC&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B2%A8%EC%9A%B8-%EB%8B%A8%EA%B8%B0-%EB%AF%B8%EA%B5%AD-temple-university-american-culture-at-temple-act-winter-2027-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8%EC%A7%91-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20261001T000000Z
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261001
+SUMMARY:[전체공지] 국제교류[겨울 단기] 미국 Temple University American Culture at Temple (ACT) Winter 2027 참가자 모집 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B2%A8%EC%9A%B8-%EB%8B%A8%EA%B8%B0-%EB%AF%B8%EA%B5%AD-temple-university-american-culture-at-temple-act-winter-2027-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8%EC%A7%91-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
 END:VCALENDAR
