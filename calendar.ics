@@ -992,4 +992,36 @@ DTEND;VALUE=DATE:20261006
 SUMMARY:[전체공지] 학사2026학년도 2학기 학부 중간 강의평가 실시 안내[2026. 10. 6.(화) ~ 10. 19.(월)]
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%ED%95%99%EB%B6%80-%EC%A4%91%EA%B0%84-%EA%B0%95%EC%9D%98%ED%8F%89%EA%B0%80-%EC%8B%A4%EC%8B%9C-%EC%95%88%EB%82%B42026-10-6-%ED%99%94-10-19&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%EB%85%84-%EC%95%84%EC%82%B0%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%9E%AC%EB%8B%A8-%EB%B6%81%ED%95%9C%EC%9D%B4%ED%83%88%EC%B2%AD%EC%86%8C%EB%85%84-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C&keyword
+DTSTAMP:20261006T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261006
+SUMMARY:[전체공지] 장학2027년 아산사회복지재단 북한이탈청소년 장학생 선발 안내(~10.26.월)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%EB%85%84-%EC%95%84%EC%82%B0%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%9E%AC%EB%8B%A8-%EB%B6%81%ED%95%9C%EC%9D%B4%ED%83%88%EC%B2%AD%EC%86%8C%EB%85%84-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%EB%85%84-%EC%95%84%EC%82%B0%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%9E%AC%EB%8B%A8-%EC%9D%98%EC%83%9D%EB%AA%85%EA%B3%BC%ED%95%99%EB%B6%84%EC%95%BC-%EB%8C%80%ED%95%99-%EC%9E%A5%ED%95%99%EC%83%9D&keyword
+DTSTAMP:20261006T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261006
+SUMMARY:[전체공지] 장학2027년 아산사회복지재단 의생명과학분야 대학 장학생 선발 안내(~10.26.월)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%EB%85%84-%EC%95%84%EC%82%B0%EC%82%AC%ED%9A%8C%EB%B3%B5%EC%A7%80%EC%9E%AC%EB%8B%A8-%EC%9D%98%EC%83%9D%EB%AA%85%EA%B3%BC%ED%95%99%EB%B6%84%EC%95%BC-%EB%8C%80%ED%95%99-%EC%9E%A5%ED%95%99%EC%83%9D&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B2%A8%EC%9A%B8-%EB%8B%A8%EA%B8%B0-%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C-dublin-city-university-dcuinternational-winter-school-2027-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8%EC%A7%91-%EC%95%88&keyword
+DTSTAMP:20261006T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261006
+SUMMARY:[전체공지] 국제교류[겨울 단기] 아일랜드 Dublin City University (DCU)International Winter School 2027 참가자 모집 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B2%A8%EC%9A%B8-%EB%8B%A8%EA%B8%B0-%EC%95%84%EC%9D%BC%EB%9E%9C%EB%93%9C-dublin-city-university-dcuinternational-winter-school-2027-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8%EC%A7%91-%EC%95%88&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%84ai%EA%B5%90%EC%9C%A1%EC%9B%90-%EC%9D%B8%EB%AC%B8%EB%8C%80%ED%95%99-%EC%98%88%EC%88%A0%EC%B0%BD%EC%9E%91%ED%95%99%EB%B6%80&keyword
+DTSTAMP:20261006T000000Z
+DTSTART;VALUE=DATE:20261006
+DTEND;VALUE=DATE:20261006
+SUMMARY:[전체공지] 비교과·행사[스파르탄AI교육원/인문대학 예술창작학부] 2026년 제2회 AI·SW 창작 콘텐츠 공모전: 모두가 크리에이터다
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EC%8A%A4%ED%8C%8C%EB%A5%B4%ED%83%84ai%EA%B5%90%EC%9C%A1%EC%9B%90-%EC%9D%B8%EB%AC%B8%EB%8C%80%ED%95%99-%EC%98%88%EC%88%A0%EC%B0%BD%EC%9E%91%ED%95%99%EB%B6%80&keyword
+END:VEVENT
 END:VCALENDAR
