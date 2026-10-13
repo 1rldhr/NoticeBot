@@ -1088,4 +1088,20 @@ DTEND;VALUE=DATE:20261012
 SUMMARY:[전체공지] 장학★2026학년도 2학기 인송문화재단 장학생 추천 공고(~10/21수 14시)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%852025%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EC%9D%B8%EC%86%A1%EB%AC%B8%ED%99%94%EC%9E%AC%EB%8B%A8-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%B6%94%EC%B2%9C-%EA%B3%B5%EA%B3%A010-21%EC%88%98-14&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-%EA%B2%A8%EC%9A%B8%EA%B3%84%EC%A0%88%EC%A0%9C-%EA%B5%AD%EB%82%B4%EB%8C%80%ED%95%99-%ED%95%99%EC%A0%90%EA%B5%90%EB%A5%98-%EC%8B%A0%EC%B2%AD-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261013
+SUMMARY:[전체공지] 학사2026학년도 겨울계절제 국내대학 학점교류 신청 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-%EA%B2%A8%EC%9A%B8%EA%B3%84%EC%A0%88%EC%A0%9C-%EA%B5%AD%EB%82%B4%EB%8C%80%ED%95%99-%ED%95%99%EC%A0%90%EA%B5%90%EB%A5%98-%EC%8B%A0%EC%B2%AD-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EB%AA%A8%EC%A7%91-ssulib-ai-challenge-2026-%EC%98%81%EC%83%81-%EA%B8%B0%ED%9A%8D%C2%B7%EC%A0%9C%EC%9E%91-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8%EC%A7%9110-0711-02&keyword
+DTSTAMP:20261013T000000Z
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261013
+SUMMARY:[전체공지] 비교과·행사[모집] SSU:Lib AI Challenge 2026: 영상 기획·제작 공모전 참가자 모집(10/07~11/02)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EB%AA%A8%EC%A7%91-ssulib-ai-challenge-2026-%EC%98%81%EC%83%81-%EA%B8%B0%ED%9A%8D%C2%B7%EC%A0%9C%EC%9E%91-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8%EC%A7%9110-0711-02&keyword
+END:VEVENT
 END:VCALENDAR
