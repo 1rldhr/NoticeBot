@@ -1104,4 +1104,12 @@ DTEND;VALUE=DATE:20261013
 SUMMARY:[전체공지] 비교과·행사[모집] SSU:Lib AI Challenge 2026: 영상 기획·제작 공모전 참가자 모집(10/07~11/02)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EB%AA%A8%EC%A7%91-ssulib-ai-challenge-2026-%EC%98%81%EC%83%81-%EA%B8%B0%ED%9A%8D%C2%B7%EC%A0%9C%EC%9E%91-%EA%B3%B5%EB%AA%A8%EC%A0%84-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8%EC%A7%9110-0711-02&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%EB%85%84%EB%8F%84-%EB%91%90%EC%82%B0%EC%97%B0%EA%B0%95%EC%9E%AC%EB%8B%A8-%EB%91%90%EC%82%B0%EC%97%B0%EA%B0%95-%EB%8C%80%ED%95%99-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20261014T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261014
+SUMMARY:[전체공지] 장학2027년도 두산연강재단 두산연강 대학 장학생 선발 안내(~11/13금 18시)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%EB%85%84%EB%8F%84-%EB%91%90%EC%82%B0%EC%97%B0%EA%B0%95%EC%9E%AC%EB%8B%A8-%EB%91%90%EC%82%B0%EC%97%B0%EA%B0%95-%EB%8C%80%ED%95%99-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
 END:VCALENDAR
