@@ -1120,4 +1120,12 @@ DTEND;VALUE=DATE:20261015
 SUMMARY:[전체공지] 국제교류[겨울 단기] 중국 동화대학교 (Donghua University)2027 겨울방학 단기 중국어 프로그램 참가자 모집 안내
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B2%A8%EC%9A%B8-%EB%8B%A8%EA%B8%B0-%EC%A4%91%EA%B5%AD-%EB%8F%99%ED%99%94%EB%8C%80%ED%95%99%EA%B5%90-donghua-university2027-%EA%B2%A8%EC%9A%B8%EB%B0%A9%ED%95%99-%EB%8B%A8%EA%B8%B0-%EC%A4%91&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EC%88%98%ED%95%99%EC%8A%B5%ED%98%81%EC%8B%A0%ED%8C%80-%ED%95%99%EC%8A%B5%EB%B2%95-%EC%9B%8C%ED%81%AC%EC%88%8D-%EB%85%B8%EC%85%98%EC%9C%BC%EB%A1%9C-%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94&keyword
+DTSTAMP:20261015T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+SUMMARY:[전체공지] 비교과·행사[교수학습혁신팀] 학습법 워크숍 노션으로 완성하는 포트폴리오 & 학업관리
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EC%88%98%ED%95%99%EC%8A%B5%ED%98%81%EC%8B%A0%ED%8C%80-%ED%95%99%EC%8A%B5%EB%B2%95-%EC%9B%8C%ED%81%AC%EC%88%8D-%EB%85%B8%EC%85%98%EC%9C%BC%EB%A1%9C-%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94&keyword
+END:VEVENT
 END:VCALENDAR
