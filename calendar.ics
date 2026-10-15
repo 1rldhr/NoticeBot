@@ -1112,4 +1112,12 @@ DTEND;VALUE=DATE:20261014
 SUMMARY:[전체공지] 장학2027년도 두산연강재단 두산연강 대학 장학생 선발 안내(~11/13금 18시)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%EB%85%84%EB%8F%84-%EB%91%90%EC%82%B0%EC%97%B0%EA%B0%95%EC%9E%AC%EB%8B%A8-%EB%91%90%EC%82%B0%EC%97%B0%EA%B0%95-%EB%8C%80%ED%95%99-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B4&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B2%A8%EC%9A%B8-%EB%8B%A8%EA%B8%B0-%EC%A4%91%EA%B5%AD-%EB%8F%99%ED%99%94%EB%8C%80%ED%95%99%EA%B5%90-donghua-university2027-%EA%B2%A8%EC%9A%B8%EB%B0%A9%ED%95%99-%EB%8B%A8%EA%B8%B0-%EC%A4%91&keyword
+DTSTAMP:20261015T000000Z
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261015
+SUMMARY:[전체공지] 국제교류[겨울 단기] 중국 동화대학교 (Donghua University)2027 겨울방학 단기 중국어 프로그램 참가자 모집 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B2%A8%EC%9A%B8-%EB%8B%A8%EA%B8%B0-%EC%A4%91%EA%B5%AD-%EB%8F%99%ED%99%94%EB%8C%80%ED%95%99%EA%B5%90-donghua-university2027-%EA%B2%A8%EC%9A%B8%EB%B0%A9%ED%95%99-%EB%8B%A8%EA%B8%B0-%EC%A4%91&keyword
+END:VEVENT
 END:VCALENDAR
