@@ -1128,4 +1128,20 @@ DTEND;VALUE=DATE:20261015
 SUMMARY:[전체공지] 비교과·행사[교수학습혁신팀] 학습법 워크숍 노션으로 완성하는 포트폴리오 & 학업관리
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EC%88%98%ED%95%99%EC%8A%B5%ED%98%81%EC%8B%A0%ED%8C%80-%ED%95%99%EC%8A%B5%EB%B2%95-%EC%9B%8C%ED%81%AC%EC%88%8D-%EB%85%B8%EC%85%98%EC%9C%BC%EB%A1%9C-%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%9C%EA%B5%AD%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8-%ED%9D%AC%EB%A7%9D%EC%82%AC%EB%8B%A4%EB%A6%AC%E2%85%A0%EC%9C%A0%ED%98%95-%EC%9E%A5%ED%95%99%EC%83%9D-%EB%8C%80%EC%83%81-%EA%B8%B0%EC%97%85&keyword
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261016
+SUMMARY:[전체공지] 장학[한국장학재단] 희망사다리Ⅰ유형 장학생 대상 기업탐방 프로그램 참여자 모집
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%9C%EA%B5%AD%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8-%ED%9D%AC%EB%A7%9D%EC%82%AC%EB%8B%A4%EB%A6%AC%E2%85%A0%EC%9C%A0%ED%98%95-%EC%9E%A5%ED%95%99%EC%83%9D-%EB%8C%80%EC%83%81-%EA%B8%B0%EC%97%85&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-%EA%B3%B5%ED%95%99%EA%B3%84%EC%97%B4-%EB%8C%80%ED%95%99%EC%83%9D-%EC%8A%A4%ED%94%BC%EC%B9%98-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%B0%B8%EA%B0%80-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20261016T000000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261016
+SUMMARY:[전체공지] 비교과·행사2026 공학계열 대학생 스피치 경진대회 참가 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-%EA%B3%B5%ED%95%99%EA%B3%84%EC%97%B4-%EB%8C%80%ED%95%99%EC%83%9D-%EC%8A%A4%ED%94%BC%EC%B9%98-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%B0%B8%EA%B0%80-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
 END:VCALENDAR
