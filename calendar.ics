@@ -1144,4 +1144,12 @@ DTEND;VALUE=DATE:20261016
 SUMMARY:[전체공지] 비교과·행사2026 공학계열 대학생 스피치 경진대회 참가 안내
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-%EA%B3%B5%ED%95%99%EA%B3%84%EC%97%B4-%EB%8C%80%ED%95%99%EC%83%9D-%EC%8A%A4%ED%94%BC%EC%B9%98-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C-%EC%B0%B8%EA%B0%80-%EC%95%88%EB%82%B4&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B2%A8%EC%9A%B8-%EB%8B%A8%EA%B8%B0-%EC%9D%BC%EB%B3%B8-sapporo-gakuin-university-%EC%82%BF%ED%8F%AC%EB%A1%9C%EA%B0%80%EC%BF%A0%EC%9D%B8%EB%8C%80%ED%95%99%EA%B5%90japanese-language-and-culture-pr&keyword
+DTSTAMP:20261018T000000Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261018
+SUMMARY:[전체공지] 국제교류[겨울 단기] 일본 Sapporo Gakuin University (삿포로가쿠인대학교)Japanese Language and Culture Program (Winter 2026) 참가자 모집 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B2%A8%EC%9A%B8-%EB%8B%A8%EA%B8%B0-%EC%9D%BC%EB%B3%B8-sapporo-gakuin-university-%EC%82%BF%ED%8F%AC%EB%A1%9C%EA%B0%80%EC%BF%A0%EC%9D%B8%EB%8C%80%ED%95%99%EA%B5%90japanese-language-and-culture-pr&keyword
+END:VEVENT
 END:VCALENDAR
