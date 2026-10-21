@@ -1224,4 +1224,12 @@ DTEND;VALUE=DATE:20261021
 SUMMARY:[전체공지] 비교과·행사2026학년도 2학기 진로취업센터 공공인재양성반 모집 안내(관세사반)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EC%A7%84%EB%A1%9C%EC%B7%A8%EC%97%85%EC%84%BC%ED%84%B0-%EA%B3%B5%EA%B3%B5%EC%9D%B8%EC%9E%AC%EC%96%91%EC%84%B1%EB%B0%98-%EB%AA%A8%EC%A7%91-4&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-%EA%B2%A8%EC%9A%B8%ED%95%99%EA%B8%B0-%ED%98%84%EC%9E%A5%EC%8B%A4%EC%8A%B5%ED%95%99%EA%B8%B0%EC%A0%9C-%ED%95%99%EC%83%9D-%EC%B0%B8%EC%97%AC-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20261021T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261021
+SUMMARY:[전체공지] 학사2026-겨울학기 현장실습학기제 학생 참여 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026-%EA%B2%A8%EC%9A%B8%ED%95%99%EA%B8%B0-%ED%98%84%EC%9E%A5%EC%8B%A4%EC%8A%B5%ED%95%99%EA%B8%B0%EC%A0%9C-%ED%95%99%EC%83%9D-%EC%B0%B8%EC%97%AC-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
 END:VCALENDAR
