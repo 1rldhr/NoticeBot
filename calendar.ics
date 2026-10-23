@@ -1248,4 +1248,12 @@ DTEND;VALUE=DATE:20261022
 SUMMARY:[전체공지] 장학2026년 2학기 안산시 대학생 본인부담 등록금 반값지원 안내(~11.20금 18시)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-2%ED%95%99%EA%B8%B0-%EC%95%88%EC%82%B0%EC%8B%9C-%EB%8C%80%ED%95%99%EC%83%9D-%EB%B3%B8%EC%9D%B8%EB%B6%80%EB%8B%B4-%EB%93%B1%EB%A1%9D%EA%B8%88-%EB%B0%98%EA%B0%92%EC%A7%80%EC%9B%90&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%EB%85%84-%EA%B0%80%EC%9D%84%ED%95%99%EA%B8%B0-saf-%EB%B0%A9%EB%AC%B8%ED%95%99%EC%83%9D-ies-%ED%95%B4%EC%99%B8-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EB%8C%80%EB%A9%B4-%EC%84%A4%EB%AA%85%ED%9A%8C&keyword
+DTSTAMP:20261023T000000Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261023
+SUMMARY:[전체공지] 국제교류2027년 가을학기 SAF 방문학생 / IES 해외 인턴십 대면 설명회 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%EB%85%84-%EA%B0%80%EC%9D%84%ED%95%99%EA%B8%B0-saf-%EB%B0%A9%EB%AC%B8%ED%95%99%EC%83%9D-ies-%ED%95%B4%EC%99%B8-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EB%8C%80%EB%A9%B4-%EC%84%A4%EB%AA%85%ED%9A%8C&keyword
+END:VEVENT
 END:VCALENDAR
