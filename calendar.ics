@@ -1272,4 +1272,28 @@ DTEND;VALUE=DATE:20261023
 SUMMARY:[전체공지] 장학★ 2027학년도 한국지도자육성장학재단 신규 장학생 선발 공고(~11/3화 15:30)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85-2027%ED%95%99%EB%85%84%EB%8F%84-%ED%95%9C%EA%B5%AD%EC%A7%80%EB%8F%84%EC%9E%90%EC%9C%A1%EC%84%B1%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8-%EC%8B%A0%EA%B7%9C-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%9C%EA%B5%AD%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8-%ED%9D%AC%EB%A7%9D%EC%82%AC%EB%8B%A4%EB%A6%AC%E2%85%A0%EC%9C%A0%ED%98%95-%EC%9E%A5%ED%95%99%EC%83%9D-%EB%8C%80%EC%83%81-%EA%B5%90%EC%9C%A1&keyword
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261026
+SUMMARY:[전체공지] 장학[한국장학재단] 희망사다리Ⅰ유형 장학생 대상 삼성 청년 SW·AI 아카데미(SSAFY) 17기 교육생 모집 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%9C%EA%B5%AD%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8-%ED%9D%AC%EB%A7%9D%EC%82%AC%EB%8B%A4%EB%A6%AC%E2%85%A0%EC%9C%A0%ED%98%95-%EC%9E%A5%ED%95%99%EC%83%9D-%EB%8C%80%EC%83%81-%EA%B5%90%EC%9C%A1&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%96%A0-2026-2%ED%95%99%EA%B8%B0-%EB%B9%84%EC%A0%84%EC%B1%84%ED%94%8C-%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC-%EC%B0%B8%EC%97%AC-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261026
+SUMMARY:[전체공지] 학사■ 2026-2학기 비전채플 설문조사 참여 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%96%A0-2026-2%ED%95%99%EA%B8%B0-%EB%B9%84%EC%A0%84%EC%B1%84%ED%94%8C-%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC-%EC%B0%B8%EC%97%AC-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EA%B8%B0%EB%B3%B8-%ED%9B%88%EB%A0%A8-3%EC%B0%A8%EB%8B%B9%ED%95%B4%EB%85%84%EB%8F%84-%EC%9D%B4%EC%9B%94-%EB%B0%8F-%ED%9B%84%EB%B0%98%EA%B8%B0-%EC%9E%91%EA%B3%84-%ED%9B%88%EB%A0%A8&keyword
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261026
+DTEND;VALUE=DATE:20261026
+SUMMARY:[전체공지] 학사2026년 기본 훈련 3차(당해년도 / 이월) 및 후반기 작계 훈련 편성 계획
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EA%B8%B0%EB%B3%B8-%ED%9B%88%EB%A0%A8-3%EC%B0%A8%EB%8B%B9%ED%95%B4%EB%85%84%EB%8F%84-%EC%9D%B4%EC%9B%94-%EB%B0%8F-%ED%9B%84%EB%B0%98%EA%B8%B0-%EC%9E%91%EA%B3%84-%ED%9B%88%EB%A0%A8&keyword
+END:VEVENT
 END:VCALENDAR
