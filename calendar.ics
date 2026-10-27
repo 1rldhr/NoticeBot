@@ -1312,4 +1312,28 @@ DTEND;VALUE=DATE:20261026
 SUMMARY:[전체공지] 장학2027학년도 엔지니어링인재육성재단 제2기 장학생 모집 안내(~11/13금 18시)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%ED%95%99%EB%85%84%EB%8F%84-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%EC%9D%B8%EC%9E%AC%EC%9C%A1%EC%84%B1%EC%9E%AC%EB%8B%A8-%EC%A0%9C2%EA%B8%B0-%EC%9E%A5%ED%95%99%EC%83%9D-%EB%AA%A8%EC%A7%91&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=u-saint-%EC%9E%A5%ED%95%99%EA%B8%88-%EC%A2%85%EB%A5%98-%EB%B0%8F-%EC%8B%A0%EC%B2%AD-%EC%95%88%EB%82%B4-%EB%A9%94%EB%89%B4-%EC%8B%A0%EC%84%A4%ED%95%99%EC%82%AC%EA%B3%BC%EC%A0%95&keyword
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261027
+SUMMARY:[전체공지] 장학u-SAINT ‘장학금 종류 및 신청 안내’ 메뉴 신설(학사과정)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=u-saint-%EC%9E%A5%ED%95%99%EA%B8%88-%EC%A2%85%EB%A5%98-%EB%B0%8F-%EC%8B%A0%EC%B2%AD-%EC%95%88%EB%82%B4-%EB%A9%94%EB%89%B4-%EC%8B%A0%EC%84%A4%ED%95%99%EC%82%AC%EA%B3%BC%EC%A0%95&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85-2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%ED%8A%B9%EB%B3%84%EC%9E%A5%ED%95%99%EA%B8%88%EC%A3%BC%EA%B1%B0%EB%B9%84-%EA%B5%90%ED%86%B5%EB%B9%84-%EA%B7%BC%EB%A9%B4%EC%88%AD&keyword
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261027
+SUMMARY:[전체공지] 장학★ 2026학년도 2학기 특별장학금(주거비\, 교통비\, 근면숭실\, 공인어학시험\, 특별성적우수(12.5%)\, 가계곤란) 신청 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85-2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%ED%8A%B9%EB%B3%84%EC%9E%A5%ED%95%99%EA%B8%88%EC%A3%BC%EA%B1%B0%EB%B9%84-%EA%B5%90%ED%86%B5%EB%B9%84-%EA%B7%BC%EB%A9%B4%EC%88%AD&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%EA%B0%95%ED%99%94%EA%B5%B0-%EB%8C%80%ED%95%99%EC%83%9D-%EB%93%B1%EB%A1%9D%EA%B8%88-%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85-%EC%95%88%EB%82%B411-9-%EC%9B%94-18&keyword
+DTSTAMP:20261027T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261027
+SUMMARY:[전체공지] 장학2026년 하반기 강화군 대학생 등록금 지원사업 안내(~11.9.월 18시)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%ED%95%98%EB%B0%98%EA%B8%B0-%EA%B0%95%ED%99%94%EA%B5%B0-%EB%8C%80%ED%95%99%EC%83%9D-%EB%93%B1%EB%A1%9D%EA%B8%88-%EC%A7%80%EC%9B%90%EC%82%AC%EC%97%85-%EC%95%88%EB%82%B411-9-%EC%9B%94-18&keyword
+END:VEVENT
 END:VCALENDAR
