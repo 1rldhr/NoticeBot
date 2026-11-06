@@ -1440,4 +1440,20 @@ DTEND;VALUE=DATE:20261103
 SUMMARY:[전체공지] 장학[한국장학재단] 학자금 중복지원 방지 안내
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%9C%EA%B5%AD%EC%9E%A5%ED%95%99%EC%9E%AC%EB%8B%A8-%ED%95%99%EC%9E%90%EA%B8%88-%EC%A4%91%EB%B3%B5%EC%A7%80%EC%9B%90-%EB%B0%A9%EC%A7%80-%EC%95%88%EB%82%B4&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=sic-2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-sic-4%EC%BF%BC%ED%84%B0%EC%A0%95%EA%B8%B0-%EA%B5%90%ED%99%98%ED%95%99%EC%83%9D-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%B0%B8%EA%B0%80%EC%9E%90&keyword
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261106
+SUMMARY:[전체공지] 국제교류[SIC] 2026학년도 2학기 SIC 4쿼터정기 교환학생 세미나 참가자 모집 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=sic-2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-sic-4%EC%BF%BC%ED%84%B0%EC%A0%95%EA%B8%B0-%EA%B5%90%ED%99%98%ED%95%99%EC%83%9D-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%B0%B8%EA%B0%80%EC%9E%90&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%EB%8C%80%ED%95%99-%ED%95%99%EC%82%AC%EC%A1%B0%EA%B5%90-%EB%AA%A8%EC%A7%91-%EA%B3%B5%EA%B3%A0%EB%AC%BC%EB%A6%AC%ED%95%99%EA%B3%BC&keyword
+DTSTAMP:20261106T000000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261106
+SUMMARY:[전체공지] 채용자연과학대학 학사조교 모집 공고(물리학과)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EC%9E%90%EC%97%B0%EA%B3%BC%ED%95%99%EB%8C%80%ED%95%99-%ED%95%99%EC%82%AC%EC%A1%B0%EA%B5%90-%EB%AA%A8%EC%A7%91-%EA%B3%B5%EA%B3%A0%EB%AC%BC%EB%A6%AC%ED%95%99%EA%B3%BC&keyword
+END:VEVENT
 END:VCALENDAR
