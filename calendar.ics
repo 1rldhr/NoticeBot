@@ -1464,4 +1464,12 @@ DTEND;VALUE=DATE:20261106
 SUMMARY:[전체공지] 채용(~11/25까지) [사회과학대학] 평생교육학과 학사조교 채용 안내
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=11-25%EA%B9%8C%EC%A7%80-%EC%82%AC%ED%9A%8C%EA%B3%BC%ED%95%99%EB%8C%80%ED%95%99-%ED%8F%89%EC%83%9D%EA%B5%90%EC%9C%A1%ED%95%99%EA%B3%BC-%ED%95%99%EC%82%AC%EC%A1%B0%EA%B5%90-%EC%B1%84%EC%9A%A9&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=49109
+DTSTAMP:20261107T000000Z
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261107
+SUMMARY:[산공학과공지] [공지] 2026 IISE 글로벌 탐방 (정병희 장학프로그램) 최종 심사 결과 안내
+DESCRIPTION:https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=49109
+END:VEVENT
 END:VCALENDAR
