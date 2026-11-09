@@ -1472,4 +1472,36 @@ DTEND;VALUE=DATE:20261107
 SUMMARY:[산공학과공지] [공지] 2026 IISE 글로벌 탐방 (정병희 장학프로그램) 최종 심사 결과 안내
 DESCRIPTION:https://iise.ssu.ac.kr/cummunity/notice/?term_id&slug=49109
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%AD%EC%A0%9C%ED%8C%80-2026-2%ED%95%99%EA%B8%B0-international-day-china-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8%EC%A7%91&keyword
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261109
+SUMMARY:[전체공지] 국제교류[국제팀] 2026-2학기 International Day – China 참가자 모집
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%AD%EC%A0%9C%ED%8C%80-2026-2%ED%95%99%EA%B8%B0-international-day-china-%EC%B0%B8%EA%B0%80%EC%9E%90-%EB%AA%A8%EC%A7%91&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%EC%A7%81%EC%9B%90-%EC%B6%94%EC%B2%9C-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EA%B3%B5%EA%B3%A0&keyword
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261109
+SUMMARY:[전체공지] 장학2026년 숭실대학교 직원 추천 장학생 선발 공고
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%EB%85%84-%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%EC%A7%81%EC%9B%90-%EC%B6%94%EC%B2%9C-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EA%B3%B5%EA%B3%A0&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%9C%EA%B5%AD%EC%96%B4%EA%B5%90%EC%9C%A1%EC%9B%90-%EC%99%B8%EA%B5%AD%EC%9D%B8-%EC%9C%A0%ED%95%99%EC%83%9D-%EB%8F%84%EC%9A%B0%EB%AF%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C65%EA%B8%B0-3&keyword
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261109
+SUMMARY:[전체공지] 국제교류[한국어교육원] 외국인 유학생 도우미 프로그램 제65기 모집 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%9C%EA%B5%AD%EC%96%B4%EA%B5%90%EC%9C%A1%EC%9B%90-%EC%99%B8%EA%B5%AD%EC%9D%B8-%EC%9C%A0%ED%95%99%EC%83%9D-%EB%8F%84%EC%9A%B0%EB%AF%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C65%EA%B8%B0-3&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%9C%EA%B5%AD%EC%96%B4%EA%B5%90%EC%9C%A1%EC%9B%90-%EC%99%B8%EA%B5%AD%EC%9D%B8-%EC%9C%A0%ED%95%99%EC%83%9D-%EB%8F%84%EC%9A%B0%EB%AF%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C65%EA%B8%B0&keyword
+DTSTAMP:20261109T000000Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261109
+SUMMARY:[전체공지] 비교과·행사[한국어교육원] 외국인 유학생 도우미 프로그램 제65기 모집 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%9C%EA%B5%AD%EC%96%B4%EA%B5%90%EC%9C%A1%EC%9B%90-%EC%99%B8%EA%B5%AD%EC%9D%B8-%EC%9C%A0%ED%95%99%EC%83%9D-%EB%8F%84%EC%9A%B0%EB%AF%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EC%A0%9C65%EA%B8%B0&keyword
+END:VEVENT
 END:VCALENDAR
