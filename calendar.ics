@@ -1536,4 +1536,28 @@ DTEND;VALUE=DATE:20261111
 SUMMARY:[전체공지] 학사2026학년도 2학기 졸업 종합 안내
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EC%A1%B8%EC%97%85-%EC%A2%85%ED%95%A9-%EC%95%88%EB%82%B4&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-%EA%B5%90%EC%9C%A1%EC%88%98%EC%9A%94%EC%9E%90%EB%A7%8C%EC%A1%B1%EB%8F%84%EC%A1%B0%EC%82%AC-%EC%B0%B8%EC%97%AC-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261112
+SUMMARY:[전체공지] 비교과·행사2026학년도 교육수요자만족도조사 참여 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-%EA%B5%90%EC%9C%A1%EC%88%98%EC%9A%94%EC%9E%90%EB%A7%8C%EC%A1%B1%EB%8F%84%EC%A1%B0%EC%82%AC-%EC%B0%B8%EC%97%AC-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EC%88%98%ED%95%99%EC%8A%B5%ED%98%81%EC%8B%A0%ED%8C%80-2026-2-%ED%95%99%EC%8A%B5%EB%B2%95-%EC%9B%8C%ED%81%AC%EC%88%8D-2%EC%B0%A8-%E3%80%8C%ED%81%B4%EB%A1%9C%EB%93%9Cclaude%EB%A1%9C-ppt&keyword
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261112
+SUMMARY:[전체공지] 비교과·행사[교수학습혁신팀] 2026-2 학습법 워크숍 2차 「클로드(Claude)로 PPT 만들기」
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EC%88%98%ED%95%99%EC%8A%B5%ED%98%81%EC%8B%A0%ED%8C%80-2026-2-%ED%95%99%EC%8A%B5%EB%B2%95-%EC%9B%8C%ED%81%AC%EC%88%8D-2%EC%B0%A8-%E3%80%8C%ED%81%B4%EB%A1%9C%EB%93%9Cclaude%EB%A1%9C-ppt&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%9C%EA%B5%AD%EA%B3%A0%EB%93%B1%EA%B5%90%EC%9C%A1%EC%9E%AC%EB%8B%A8-%EB%AC%B8%EC%9A%B0%EB%A6%BC-%EC%A0%9C6%EA%B8%B0-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B412-11&keyword
+DTSTAMP:20261112T000000Z
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261112
+SUMMARY:[전체공지] 장학한국고등교육재단 문우림 제6기 장학생 선발 안내(~12/11 금)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%9C%EA%B5%AD%EA%B3%A0%EB%93%B1%EA%B5%90%EC%9C%A1%EC%9E%AC%EB%8B%A8-%EB%AC%B8%EC%9A%B0%EB%A6%BC-%EC%A0%9C6%EA%B8%B0-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0%EB%B0%9C-%EC%95%88%EB%82%B412-11&keyword
+END:VEVENT
 END:VCALENDAR
