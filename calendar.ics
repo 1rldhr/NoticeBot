@@ -1608,4 +1608,36 @@ DTEND;VALUE=DATE:20261119
 SUMMARY:[전체공지] 비교과·행사해외선교봉사 (IMPACT 41기) 추가 모집
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%ED%95%B4%EC%99%B8%EC%84%A0%EA%B5%90%EB%B4%89%EC%82%AC-impact-41%EA%B8%B0-%EC%B6%94%EA%B0%80-%EB%AA%A8%EC%A7%91&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EA%B5%90%EC%A7%81-%EC%A0%81%C2%B7%EC%9D%B8%EC%84%B1%EA%B2%80%EC%82%AC-%EC%84%B1%EC%9D%B8%EC%A7%80-%EA%B5%90%EC%9C%A1-%EC%9D%91%EA%B8%89%EC%B2%98&keyword
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261120
+SUMMARY:[전체공지] 학사2026학년도 2학기 교직 적·인성검사/성인지 교육/응급처치·심폐소생술 실습 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%EA%B5%90%EC%A7%81-%EC%A0%81%C2%B7%EC%9D%B8%EC%84%B1%EA%B2%80%EC%82%AC-%EC%84%B1%EC%9D%B8%EC%A7%80-%EA%B5%90%EC%9C%A1-%EC%9D%91%EA%B8%89%EC%B2%98&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EC%88%98%ED%95%99%EC%8A%B5%ED%98%81%EC%8B%A0%ED%8C%80-2026-2-%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%95%99%EC%8A%B5%EB%B2%95-%EC%9B%8C%ED%81%AC%EC%88%8D-%E3%80%8C%ED%98%BC%EC%9E%90-%EA%B3%B5&keyword
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261120
+SUMMARY:[전체공지] 비교과·행사[교수학습혁신팀] 2026-2 온라인 학습법 워크숍 「혼자 공부하는 바이브 코딩 with 클로드 코드」
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EC%88%98%ED%95%99%EC%8A%B5%ED%98%81%EC%8B%A0%ED%8C%80-2026-2-%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%95%99%EC%8A%B5%EB%B2%95-%EC%9B%8C%ED%81%AC%EC%88%8D-%E3%80%8C%ED%98%BC%EC%9E%90-%EA%B3%B5&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%ED%95%99%EB%85%84%EB%8F%84-1%ED%95%99%EA%B8%B0-%ED%95%99%EC%9E%90%EA%B8%88%EB%8C%80%EC%B6%9C-%EC%82%AC%EC%A0%84%EC%8B%A0%EC%B2%AD-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261120
+SUMMARY:[전체공지] 장학2027학년도 1학기 학자금대출 사전신청 안내
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%ED%95%99%EB%85%84%EB%8F%84-1%ED%95%99%EA%B8%B0-%ED%95%99%EC%9E%90%EA%B8%88%EB%8C%80%EC%B6%9C-%EC%82%AC%EC%A0%84%EC%8B%A0%EC%B2%AD-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85-2027%ED%95%99%EB%85%84%EB%8F%84-1%ED%95%99%EA%B8%B0-%EC%A3%BC%ED%95%9C%EB%AF%B8%EA%B5%B0%EC%83%81%EA%B3%B5%ED%9A%8C%EC%9D%98%EC%86%8C-%EB%AF%B8%EB%9E%98%EC%9D%98%EB%8F%99%EB%B0%98%EC%9E%90&keyword
+DTSTAMP:20261120T000000Z
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261120
+SUMMARY:[전체공지] 장학★ 2027학년도 1학기 주한미군상공회의소 미래의동반자재단 장학생 선발 공고 (~11/25 수 15시)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85-2027%ED%95%99%EB%85%84%EB%8F%84-1%ED%95%99%EA%B8%B0-%EC%A3%BC%ED%95%9C%EB%AF%B8%EA%B5%B0%EC%83%81%EA%B3%B5%ED%9A%8C%EC%9D%98%EC%86%8C-%EB%AF%B8%EB%9E%98%EC%9D%98%EB%8F%99%EB%B0%98%EC%9E%90&keyword
+END:VEVENT
 END:VCALENDAR
