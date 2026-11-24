@@ -1680,4 +1680,28 @@ DTEND;VALUE=DATE:20261123
 SUMMARY:[전체공지] 비교과·행사[모집]SSU 데이터톤 2026(~12/15)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EB%AA%A8%EC%A7%91ssu-%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%86%A4-202612-15&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85-%EA%B8%B0%EA%B0%84-%EC%97%B0%EC%9E%A5-2027%ED%95%99%EB%85%84%EB%8F%84-%EC%9E%AC%EB%8B%A8%EB%B2%95%EC%9D%B8-%EA%B4%80%EC%A0%95%EC%9E%AC%EB%8B%A8-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0&keyword
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261124
+SUMMARY:[전체공지] 장학★ (기간 연장) 2027학년도 재단법인 관정재단 장학생 선발 공고(~11/25 15시)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%E2%98%85-%EA%B8%B0%EA%B0%84-%EC%97%B0%EC%9E%A5-2027%ED%95%99%EB%85%84%EB%8F%84-%EC%9E%AC%EB%8B%A8%EB%B2%95%EC%9D%B8-%EA%B4%80%EC%A0%95%EC%9E%AC%EB%8B%A8-%EC%9E%A5%ED%95%99%EC%83%9D-%EC%84%A0&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EC%88%98%ED%95%99%EC%8A%B5%ED%98%81%EC%8B%A0%ED%8C%80-2026-2-%ED%95%99%EC%8A%B5%EB%B2%95-%EC%9B%8C%ED%81%AC%EC%88%8D-3%EC%B0%A8-%E3%80%8Cai%EB%A1%9C-%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94&keyword
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261124
+SUMMARY:[전체공지] 비교과·행사[교수학습혁신팀] 2026-2 학습법 워크숍 3차 「AI로 완성하는 나만의 학습 시스템」(~11/30)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EC%88%98%ED%95%99%EC%8A%B5%ED%98%81%EC%8B%A0%ED%8C%80-2026-2-%ED%95%99%EC%8A%B5%EB%B2%95-%EC%9B%8C%ED%81%AC%EC%88%8D-3%EC%B0%A8-%E3%80%8Cai%EB%A1%9C-%EC%99%84%EC%84%B1%ED%95%98%EB%8A%94&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%ED%95%99%EB%B6%80-%EC%9E%AC%ED%95%99%EC%83%9D-%EA%B8%B0%EB%A7%90-%EA%B0%95%EC%9D%98%ED%8F%89%EA%B0%80-%EC%8B%A4%EC%8B%9C-%EC%95%88%EB%82%B42026-1&keyword
+DTSTAMP:20261124T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261124
+SUMMARY:[전체공지] 학사2026학년도 2학기 학부 재학생 기말 강의평가 실시 안내[2026. 11. 24.(화) ~ 12. 7.(월)]
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2026%ED%95%99%EB%85%84%EB%8F%84-2%ED%95%99%EA%B8%B0-%ED%95%99%EB%B6%80-%EC%9E%AC%ED%95%99%EC%83%9D-%EA%B8%B0%EB%A7%90-%EA%B0%95%EC%9D%98%ED%8F%89%EA%B0%80-%EC%8B%A4%EC%8B%9C-%EC%95%88%EB%82%B42026-1&keyword
+END:VEVENT
 END:VCALENDAR
