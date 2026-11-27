@@ -1720,4 +1720,28 @@ DTEND;VALUE=DATE:20261126
 SUMMARY:[전체공지] 비교과·행사숭실대학교 학생기자단 프레슈 17기 모집(~12/14(월)까지)
 DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EC%88%AD%EC%8B%A4%EB%8C%80%ED%95%99%EA%B5%90-%ED%95%99%EC%83%9D%EA%B8%B0%EC%9E%90%EB%8B%A8-%ED%94%84%EB%A0%88%EC%8A%88-17%EA%B8%B0-%EB%AA%A8%EC%A7%9112-14%EC%9B%94%EA%B9%8C%EC%A7%80&keyword
 END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%ED%95%99%EB%85%84%EB%8F%84-1%ED%95%99%EA%B8%B0-%EB%86%8D%EB%A6%BC%EC%B6%95%EC%82%B0%EC%8B%9D%ED%92%88%EB%B6%80-%ED%95%9C%EA%B5%AD%EB%86%8D%EC%96%B4%EC%B4%8C%ED%9D%AC%EB%A7%9D%EC%9E%AC%EB%8B%A8&keyword
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261127
+SUMMARY:[전체공지] 장학2027학년도 1학기 농림축산식품부 한국농어촌희망재단 청년창업농장학금 장학생 선발 안내(1/5 화 17시\, 3학년 이상)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%ED%95%99%EB%85%84%EB%8F%84-1%ED%95%99%EA%B8%B0-%EB%86%8D%EB%A6%BC%EC%B6%95%EC%82%B0%EC%8B%9D%ED%92%88%EB%B6%80-%ED%95%9C%EA%B5%AD%EB%86%8D%EC%96%B4%EC%B4%8C%ED%9D%AC%EB%A7%9D%EC%9E%AC%EB%8B%A8&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%EB%85%84-%EC%97%90%EB%AA%AC%EC%8A%A4-%EC%9E%A5%ED%95%99%ED%9A%8C-19%EA%B8%B0-%EC%84%A0%EB%B0%9C-%EA%B3%B5%EA%B3%A0&keyword
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261127
+SUMMARY:[전체공지] 장학2027년 에몬스 장학회 19기 선발 공고
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=2027%EB%85%84-%EC%97%90%EB%AA%AC%EC%8A%A4-%EC%9E%A5%ED%95%99%ED%9A%8C-19%EA%B8%B0-%EC%84%A0%EB%B0%9C-%EA%B3%B5%EA%B3%A0&keyword
+END:VEVENT
+BEGIN:VEVENT
+UID:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EB%82%B4%EC%8B%9C%ED%97%98-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84-%EA%B4%80%EB%A0%A8-%EC%95%88%EB%82%B4&keyword
+DTSTAMP:20261127T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261127
+SUMMARY:[전체공지] 학사2026학년도 2학기 기말고사 시행 안내(부정행위 방지)
+DESCRIPTION:https://scatch.ssu.ac.kr/%ea%b3%b5%ec%a7%80%ec%82%ac%ed%95%ad/?f&category&paged=1&slug=%EA%B5%90%EB%82%B4%EC%8B%9C%ED%97%98-%EB%B6%80%EC%A0%95%ED%96%89%EC%9C%84-%EA%B4%80%EB%A0%A8-%EC%95%88%EB%82%B4&keyword
+END:VEVENT
 END:VCALENDAR
